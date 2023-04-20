@@ -1,5 +1,3 @@
-![coverImage](https://imgur.com/PfAP6vQ.png)
-
 
 This web app is built using a JavaScript library called draft.js, which enables the rich text editing functionality of the app. When a user creates or edits a document, draft.js handles the rendering of the text, including the formatting, layout, and styling. 
 
